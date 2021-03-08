@@ -8,7 +8,7 @@ header {
 }
 
 body{
-    background-image: url(Images/AdobeStock_320689668.jpeg) ;
+    background-image: url(Images/game_hub_02.png) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #FBBB31;
@@ -37,6 +37,6 @@ li {
 }
 h1 {
   font-family: "changeling neo";
-  font: size 200px;
+  font: size 600px;
   color: #0093d0;
 }
