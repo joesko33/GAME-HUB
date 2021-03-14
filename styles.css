@@ -1,0 +1,42 @@
+header {
+  width: 800px;
+  display: grid;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+body{
+    background-image: url(Images/game_hub_02.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #FBBB31;
+}
+}
+
+main {
+}
+@font-face {
+  font-family: "Roboto";
+  src: url(https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap);
+}
+
+ul {
+  padding: 0px;
+  font-family: "Roboto";
+  
+}
+li {
+    display: inline;
+    
+}
+@font-face {
+  font-family: "Changeling Neo";
+  src: url(https://fonts.adobe.com/fonts/changeling-neo);
+}
+h1 {
+  font-family: "changeling neo";
+  font: size 600px;
+  color: #0093d0;
+}
